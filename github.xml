@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="jimAudate" id="7bcc1f8b-9b41-451a-8ffd-dacb02d5ae38">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
