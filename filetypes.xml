@@ -6,6 +6,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="shaders_cache" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
